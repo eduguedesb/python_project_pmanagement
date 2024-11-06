@@ -1,0 +1,1 @@
+Esse projeto segue os princípios do Clean Code e SOLID, organizando responsabilidades e garantindo que cada classe e função tenha uma função bem definida. Os testes garantem que a aplicação funcione como esperado, cobrindo casos de sucesso e falha para cada camada do sistema (entidade, serviço, e integração).
